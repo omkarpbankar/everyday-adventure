@@ -1,8 +1,5 @@
-# Fairy of Grass :fairy:
+# An everyday adventure with GitHub
 :octocat: Auto generating Github contributions everyday using Github Actions.
-
-# Translations
-[한국어](https://github.com/zeikar/fairy-of-grass/blob/master/ko.README.md)
 
 # How to use
 1. :arrow_down: Create a repository from this template. ([Docs](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template))
