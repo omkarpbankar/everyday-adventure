@@ -19,5 +19,5 @@ jobs:
         run: |
            git config --global user.name ${GITHUB_ACTOR}
            git config --global user.email ${{ secrets.USER_EMAIL }}
-           git commit --allow-empty -m "Plant grass: `date +'%Y-%m-%d %H:%M:%S'`" 
-           git push origin master
+           git commit --allow-empty -m "Everyday-adventure: `date +'%Y-%m-%d %H:%M:%S'`" 
+           git push origin main
